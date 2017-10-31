@@ -41,6 +41,7 @@ var ReactQuill = {
     "Mixin": {
         "createEditor": function () {},
         "hookEditor": function () {},
+        "unhookEditor": function () {},
         "makeUnprivilegedEditor": function() {},
         "setEditorContents": function () {},
         "setEditorReadOnly": function () {},
